@@ -1,7 +1,7 @@
 # RaspAPI - Productivity & Life Hacks API
 
 ## Overview
-RaspAPI is a simple FastAPI-based web service that provides productivity tips, quick hacks, and daily challenges to improve focus and efficiency. Users can also submit their own hacks.
+ProductivityAPI is a simple FastAPI-based web service that provides productivity tips, quick hacks, and daily challenges to improve focus and efficiency. Users can also submit their own hacks.
 
 ## Features
 - Get random focus tips to enhance productivity.
@@ -34,7 +34,7 @@ curl -X GET "http://127.0.0.1:8000/"
 #### Response:
 ```json
 {
-  "message": "Welcome to RaspAPI - Your Productivity & Life Hacks API!"
+  "message": "Welcome to ProductivityAPI - Your Productivity & Life Hacks API!"
 }
 ```
 
